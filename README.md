@@ -1,0 +1,1 @@
+learnings from project Euler
